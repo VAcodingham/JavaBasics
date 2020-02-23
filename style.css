@@ -1,0 +1,101 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 25px;
+    vertical-align: top;
+    
+   }
+   #wrapper{
+    width: 950px;
+    background-color:#1b345d;
+    margin: 0px auto;
+    min-height: 200px;
+    border-radius: 0;
+   
+    
+   }
+   #header{
+    min-height: 100px;
+    background-color: #cf3036;     
+    margin: 20px;
+
+   }
+    #header h1 {
+        color: #c2d6ec;
+        line-height: 100px;
+        margin-left: 20px;
+        
+    }   
+   #navigation{
+    min-height: 200px;
+    width: 200px;
+    background-color:#2a7d8c;
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 240px;
+    padding-left: 20px;
+   }
+
+   #navigation h1 {
+       font-size: small;
+       text-decoration: underline;
+       color: #5bd5dd;
+       margin-left: 10px;
+       margin-top: 10px;
+       
+   }
+   #navigation ul {
+       font-size: 12pt;
+       text-decoration: underline;
+       color: #5bd5dd;
+       margin-left: 20px;
+       
+       
+   }
+   #main_content{
+    min-height: 400px;
+    width: 685px;
+    background-color:#0e1822;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    position: absolute;
+    
+   }
+   #main_content p {
+       color:#c2d6ec;
+       font-size: small;
+       text-align: justify;
+   }
+   #main_content h1 {
+       color: #c2d6ec;
+       font-size: large;
+       margin-top: 10px;
+    
+    }
+    #main_content ul {
+        color: #c2d6ec;
+        font-size: small;
+        margin-left: 15px;
+    }
+   
+   #advertisement{
+    min-height: 60px;
+    width: 950px;
+    background-color: #5d6673;
+    display: inline-block;
+    margin-left: auto;
+    margin-bottom: 10px;
+    
+   }
+   #advertisement p {
+       color: #c2d6ec ;
+       margin-left: 40px;
+       line-height: 60px;
+   }
+   #advertisement span {
+       color:#5bd5dd ;
+       text-decoration: underline;
+       
+   }
